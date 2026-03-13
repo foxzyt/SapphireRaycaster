@@ -11,3 +11,5 @@ A raycaster demo built using Sapphire 1.0.7 new module: Vector2D.
   A 64x64 labyrinth (kinda, I tried to tweak some of the generation but couldn't make it better than it is now) where you can: explore (yeah that's the only thing, but it's still pretty cool as a demonstration of what Sapphire can do!)
 
 ## Screenshots
+
+![The Raycaster](assets/photo.png)
